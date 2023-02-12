@@ -1,9 +1,12 @@
 # Amazon Books Project
 ___
-Table of Contents
+## Table of Contents
 ### Imports
+___
 ### Uploading Data
+___
 ### Quick View
+___
 ### Data Cleaning
 1. Check Missing Values
 2. Handling Missing Values
@@ -17,7 +20,7 @@ ___
 ___
 ### Model Building
 * Base Result
-1) Logistic Regression¶
+1) Logistic Regression
 2) XGBoost
 * First Results
 * Hyperparameter Tuning
