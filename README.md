@@ -1,4 +1,4 @@
-# Amazon Books Project
+# Loan default prediction
 ___
 ## Table of Contents
 ### Imports
